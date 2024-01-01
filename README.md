@@ -12,4 +12,4 @@ Building a beautiful egg timer app to boil your eggs to perfection depending on 
 * Conditional statements - IF/ELSE
 * Conditional statements - Switch
 * Functions with outputs
-* How to use the ProgressView
+* To use the ProgressView
